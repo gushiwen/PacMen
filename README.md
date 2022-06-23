@@ -1,4 +1,4 @@
-# PacMen
+# PacMen Exercise
 
 The PacMen exercise is written in Javascript. There're two buttons on the browser.
 Click "Add PacMen" to add one or more PacMen on the canvas, and then click "Start"
